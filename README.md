@@ -1,4 +1,4 @@
-# 資料庫期末專題文件
+# A small DBMS using pymysql and PyQt5
 
 ## 系統架構與環境
 ```
@@ -7,6 +7,7 @@ Linux shihyu 4.18.0-16-generic #17~18.04.1-Ubuntu SMP Tue Feb 12 13:35:51 UTC 20
 ```
 - OS版本：Ubuntu 4.18.0-16-generic
 - python版本：3.6.7
+- 使用pymysql函式庫
 - 使用PyQt5製作GUI介面
 
 ## 介面截圖與使用說明
@@ -14,7 +15,7 @@ Linux shihyu 4.18.0-16-generic #17~18.04.1-Ubuntu SMP Tue Feb 12 13:35:51 UTC 20
 - 主程式為```dbms.py```
 - 執行：```python3 dbms.py```
 - 程式畫面：
-- ![](https://i.imgur.com/2C83fOv.png =400x)
+![](https://i.imgur.com/2C83fOv.png =400x)
 - 上面的Text Box可以輸入SQL指令，輸入完成後按下「執行SQL!」按鈕就可以執行該指令
 - 下面的按鈕則是可以執行嵌入的SQL語法
     - 第一排是 Basic Queries

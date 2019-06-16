@@ -14,8 +14,10 @@ Linux shihyu 4.18.0-16-generic #17~18.04.1-Ubuntu SMP Tue Feb 12 13:35:51 UTC 20
 
 - 主程式為```dbms.py```
 - 執行：```python3 dbms.py```
-- 程式畫面：<br>
+- 程式畫面：
+<br>
 ![](https://i.imgur.com/2C83fOv.png =400x)
+
 - 上面的Text Box可以輸入SQL指令，輸入完成後按下「執行SQL!」按鈕就可以執行該指令
 - 下面的按鈕則是可以執行嵌入的SQL語法
     - 第一排是 Basic Queries
